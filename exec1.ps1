@@ -1,0 +1,1 @@
+iex (Invoke-RestMethod https://raw.github.com/guitarrapc/PowerShellUtil/master/Install-JapaneseUI/Install-JapaneseUI.ps1);Install-JapaneseUI -targetOSVersion Windows2012R2 -credential (Get-Credential)
